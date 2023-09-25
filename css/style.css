@@ -1,0 +1,15 @@
+/* intestazione */
+
+header {
+    height: 150px;
+    background-color: #4ea0ff;
+    background-image: url(/img/pattern.png);
+}
+
+img {
+    height: 80px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+/* /intestazione */
