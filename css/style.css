@@ -1,15 +1,35 @@
 /* intestazione */
 
 header {
-    height: 150px;
+    height: 100px;
     background-color: #4ea0ff;
     background-image: url(/img/pattern.png);
 }
 
-img {
-    height: 80px;
+.logo img {
+    height: 50px;
     margin-top: 50px;
     margin-left: 10px;
 }
 
 /* /intestazione */
+
+/* titolo  */
+
+h1 {
+    color: black;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.titolo {
+    color: gray;
+}
+
+
+.autore span {
+    color: #4ea0ff;
+}
+
+/* /titolo  */
