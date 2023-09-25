@@ -38,6 +38,10 @@ h1 {
     color: #00e165;
 }
 
+.immagini{
+    text-align: center;
+}
+
 .foto img {
     border-radius: 10px;
 }
