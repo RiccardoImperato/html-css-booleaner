@@ -69,6 +69,10 @@ thead {
     margin-top: 10px;
 }
 
+footer h3{
+    color: gray;
+}
+
 footer span {
     color: white;
     font-size: 30px;
