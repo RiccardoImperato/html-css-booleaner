@@ -41,3 +41,9 @@ h1 {
 }
 
 /* /immagini e descrizione */
+
+/* sezione articolo */
+
+.evidenziato{
+    background-color: yellow;
+}
