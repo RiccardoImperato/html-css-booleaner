@@ -44,6 +44,21 @@ h1 {
 
 /* sezione articolo */
 
-.evidenziato{
+.evidenziato {
     background-color: yellow;
 }
+
+/* /sezione articolo */
+
+/* tabella */
+
+thead {
+    background-color: #20a9e5;
+    color: white;
+}
+
+.riga {
+    background-color: #b1e5f2;
+}
+
+/*/ tabella */
